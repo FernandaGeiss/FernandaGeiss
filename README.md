@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FernandaGeiss, from Brazil
+- 👀 I’m interested in learn about computer science and programming
+- 🌱 I’m currently learning CS50's Introduction to Computer Science from Harvard
+- 📫 Reach me by email fernanda.geiss@gmail.com or social media @fernandageiss
